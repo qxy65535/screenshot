@@ -1,0 +1,9 @@
+<RCC>
+	<qresource prefix="icon">
+		<file alias="pen">icon/pen.png</file>
+		<file alias="rect">icon/rect.png</file>
+		<file alias="revoke">icon/revoke.png</file>
+		<file alias="save">icon/save.png</file>
+		<file alias="complete">icon/complete.png</file>
+	</qresource>
+</RCC>
